@@ -1,0 +1,6 @@
+{
+  "name": "Dental Telegram Mini App",
+  "description": "Editorial-style Dental booking mini app with doctor schedules, slot conflict validation, Telegram secure auth, and appointments management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
